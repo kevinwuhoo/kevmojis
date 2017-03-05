@@ -1,3 +1,6 @@
 [submodule "magic-the-gathering"]
 	path = magic-the-gathering
 	url = https://github.com/rstacruz/slack-emoji-magic.git
+[submodule "party-parrot"]
+	path = party-parrot
+	url = https://github.com/jmhobbs/cultofthepartyparrot.com.git
